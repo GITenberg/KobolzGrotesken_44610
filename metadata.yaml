@@ -1,0 +1,26 @@
+_repo: KobolzGrotesken_44610
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44610-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Reimann, Hans
+    birthdate: 1889
+    deathdate: 1969
+    gutenberg_agent_id: '42836'
+    url: http://www.gutenberg.org/2009/agents/42836
+description: ''
+gutenberg_issued: '2014-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44610'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German literature -- 20th century'
+title: 'Kobolz: Grotesken'
+url: http://www.gutenberg.org/ebooks/44610
